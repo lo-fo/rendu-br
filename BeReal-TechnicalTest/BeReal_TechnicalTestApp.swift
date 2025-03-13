@@ -9,9 +9,16 @@ import SwiftUI
 
 @main
 struct BeReal_TechnicalTestApp: App {
+    // Create a shared instance of the data service
+    @StateObject private var storyDataService = StoryDataService()
+    
+    init() {
+    }
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
+                .environmentObject(storyDataService)
         }
     }
 }
