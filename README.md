@@ -1,4 +1,4 @@
-# BeReal Technical Test
+# Technical Test
 
 ## ⚠️ DISCLAIMER ⚠️
 **This code was completed in 3 hours instead of the allocated 4 hours.**
