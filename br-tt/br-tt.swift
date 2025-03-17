@@ -1,6 +1,6 @@
 //
-//  BeReal_TechnicalTestApp.swift
-//  BeReal-TechnicalTest
+//  br_TechnicalTestApp.swift
+//  br-TechnicalTest
 //
 //  Created by Louis Fournier on 3/13/25.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct BeReal_TechnicalTestApp: App {
+struct br_TechnicalTestApp: App {
     // Create a shared instance of the data service
     @StateObject private var storyDataService = StoryDataService()
     

@@ -1,6 +1,6 @@
 //
 //  StoryView.swift
-//  BeReal-TechnicalTest
+//  br-TechnicalTest
 //
 //  Created by Louis Fournier on 3/13/25.
 //
